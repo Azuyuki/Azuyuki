@@ -1,6 +1,5 @@
 ### 🦋Hola :3
 Soy Azuyuki, una chica interesada en aprender el desarrollo wed y programacion
-Porque Azuyuki? ¿Es tu  nombre real  pues la verdad no , no es mi nombre real, es un nombre que utilizo para ocultar mi identidad , por diferentes motivos 
 
 <!--
 **Azuyuki/Azuyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
